@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "MIMXRT1011DAE5A"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2022-12-27-12:55:45)
+    (mountForm default
+        (footprintRef "QFP50P1400X1400X160-80N")
+        (spec "System")
+    )
+)
